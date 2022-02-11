@@ -16,3 +16,20 @@ Output: YY(クラスC), YY(return)
 
 処理内容: XXからAを計算し、データ型CをYYとして書き換えつつ、YYを戻り値とする
 
+
+# private void Battle
+## Battle (松尾)
+
+Input: int x(敵の参照データ)
+
+Output: なし
+
+処理内容: XXからAを計算し、CをYYとして書き換える
+
+## CompareSpeed (松尾)
+
+Input: int x, int y(それぞれの速度)
+
+Output: YY(クラスC), YY(return)
+
+処理内容: XXからAを計算し、データ型CをYYとして書き換えつつ、YYを戻り値とする
